@@ -20,6 +20,11 @@
    color: rgb(187, 186, 186);
 }
 
+.link {
+   text-decoration: none;
+   color: inherit;
+}
+
 .sidebarList {
    list-style: none;
    padding: 5px;
